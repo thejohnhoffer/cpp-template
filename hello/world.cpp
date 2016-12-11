@@ -1,6 +1,10 @@
+#include <string>
 #include "headers/hello.h"
 
+using std::string;
+
 int main() {
-	sayHello(3);
+	string name = "World";
+	sayHello(name);
 	return 0;
 }

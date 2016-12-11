@@ -1,6 +1,6 @@
 #ifndef HELLO_H
 #define HELLO_H
 
-void sayHello(int guest);
+void sayHello(std::string guest);
 
 #endif
