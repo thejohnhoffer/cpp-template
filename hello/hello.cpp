@@ -1,3 +1,4 @@
+#include <string>
 #include <iostream>
 #include "headers/hello.h"
 
